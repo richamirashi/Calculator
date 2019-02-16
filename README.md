@@ -4,6 +4,3 @@ The **GUI Calculator** is an application used to evaluate a mathematical express
 
 ## Framework:
 - [Java AWT](https://www.javatpoint.com/java-awt)
-
-## Workflow:
-<img src = "images/workflow.jpg" />
